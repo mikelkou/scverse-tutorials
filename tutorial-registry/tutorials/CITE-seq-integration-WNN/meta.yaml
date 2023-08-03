@@ -1,0 +1,15 @@
+name: CITE-seq data integration with weighted nearest neighbours
+description: |
+    This noteboks demonstrated multimodal data integration using weighted 
+    nearest neighbours.
+link: https://muon-tutorials.readthedocs.io/en/latest/cite-seq/2-CITE-seq-PBMC-5k-Weighted-Neighbours.html
+image: icon.png
+primary_category: Multimodal
+tags:
+    - multimodal
+    - data integration
+packages:
+    - scanpy
+    - muon
+authors:
+    - gtca
